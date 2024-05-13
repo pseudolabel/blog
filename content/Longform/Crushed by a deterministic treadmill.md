@@ -99,9 +99,7 @@ Even Pascal and Fermat speculated on this topic with the [Problem of Points]( ht
 > The starting insight for Pascal and Fermat was that the division should not depend so much on the history of the part of the interrupted game that actually took place, as on the possible ways the game might have continued, were it not interrupted. It is intuitively clear that a player with a 7–5 lead in a game to 10 has the same chance of eventually winning as a player with a 17–15 lead in a game to 20, and Pascal and Fermat therefore thought that interruption in either of the two situations ought to lead to the same division of the stakes. In other words, what is important is not the number of rounds each player has won yet, but the number of rounds each player still needs to win in order to achieve overall victory.
 
 # III.
-I recently came across a brilliant, first-principles ML post which perhaps has parallels to human behavior.
-
-![[Pasted image 20240503115837.png]]
+I recently came across a brilliant, first-principles [ML post](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target) which perhaps has parallels to human behavior.
 
 It hypothesizes the following: reinforcement learning (RL) is a type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward. The agent learns from trial and error, receiving rewards or penalties for actions it takes, and over time, it aims to develop a strategy, called a policy, to choose actions that maximize its rewards. There's a common assumption floating around that RL agents are primarily "reward optimizers" - creatures that not only seek to maximize their reward but also consistently prioritize reward over task completion. But is this really the case? Or are we just projecting our human understanding of reward onto digital entities?
 
