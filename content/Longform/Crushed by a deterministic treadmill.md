@@ -2,8 +2,8 @@
 title: Crushed by a deterministic treadmill
 tags: 
     - economics
-    - happiness
     - essay
+    - psychology
 date: 2023-06-04
 ---
 
