@@ -3,8 +3,8 @@ title: For Autodidactism (why I dropped out)
 tags: 
     - economics
     - one-sitting
+    - essay
 date: 2023-08-02
-draft: true
 ---
 
 *The following was an essay I gave my mom to present my perspective and persuade her to support my decision to go from a gap year to [dropping out of UBC](https://x.com/sudolabel/status/1567599563602804736) indefinitely. 
