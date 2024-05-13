@@ -56,6 +56,9 @@ Academics view their comparative advantage fundamentally as arising from field-s
 If there's something we agree on, it's that doing something for the purpose of others is a great way to have regrets. It's how I feel about university; there's so many rational reasons for me not to go back, and few reasons for it: "oh my mom told me to" (among social reasons). 
 
 ## Frequent counterarguments (and my response)
+### "What if you get fired/crypto goes to zero/everything dies"
+Then I concede defeat, and go back to university as a more mature, experienced, wise person. The choice not to attend university is a two-way door; it is reversible with minimal effort. I'll continue to reapply to UBC every year, and they'll continue to accept me. It's a nominal fee for a year of "insurance", such that I can always return to university if I so please.
+
 ### "Startup employees don't make much upon an exit"
 I'm sad M says this since it probably means he got screwed in some way in the past, or maybe it's that oil and gas companies don't give nearly as much equity as tech startups to early employees, or don't get acquired for much. This seems to be more a figment of salary negotiation than anything; a founding engineer in tech is usually compensated in such that any whiff of an exit nets a large sum.
 
