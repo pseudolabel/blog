@@ -7,7 +7,7 @@ tags:
 date: 2023-08-02
 ---
 
-*The following was an essay I gave my mom to present my perspective and persuade her to support my decision to go from a gap year to [dropping out of UBC](https://x.com/sudolabel/status/1567599563602804736) indefinitely.*
+*The following was an essay I gave my mom to present my perspective and persuade her to support my decision to go from a gap year to [dropping out of UBC](https://x.com/sudolabel/status/1567599563602804736) indefinitely. Admittedly, many of the arguments are strawman and overly monetary.*
 
 ## I.
 J gave me a valuable insight: the previous immigrant generation grew up in a scarcity mindset (a term coined in [*The 7 Habits of Highly Effective People*](https://sourcesofinsight.com/integrity-maturity-and-abundance/)) shaped by past hardships and uncertainties, focusing on conserving resources and viewing opportunities as limited. In contrast, an abundance mindset, emerging from stable and resource-rich environments, encourages risk-taking, innovation, and sees opportunities as abundant and accessible. A suitable mental model of this is thinking of reasons to join a new opportunity in terms of the worst case scenario (scarcity mindset), or the best case scenario (abundance mindset). I believe the majority of these arguments can be summarized effectively by this gap in worldview, and the resulting differences in agency, resourcefulness, and risk tolerance.
