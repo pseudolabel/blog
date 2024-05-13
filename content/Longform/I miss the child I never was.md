@@ -1,0 +1,48 @@
+---
+title: I miss the child I never was
+tags: 
+    - one-sitting
+    - journal
+    - emotions
+date: 2023-05-25
+---
+
+It's taken a while to hit me that I'm an adult. Maybe concerningly long; in "official" terms, it's been \~450 days. That means \~280 days until I'm not a teen.
+
+I've cried about having to lose my childhood a couple times. I cried when I started IB in High School, thinking that it would take so much of my time I couldn't be a kid anymore. I cried reading my email on a car ride home from Banff National Park on one August day in 2020 because I realized I could never go to school with my same friends from elementary to High School anymore, because I'd be switching to online school for COVID. But those shed tears have never been about the present situation. The point of no return had always been in the future; that the deadline of childhood was looming. And at some point between then and now, that dreadful deadline is past.
+
+In my childhood, I thrilled in the twists and turn of my mind. I confined myself to my room for days reading. I wrote and played music. _I even published a fucking novel._ I had an innate boldness, a thirst to uncover the mysteries of the world. And then somewhere along the way I forgot it. From smiley faces on Costco receipts to straight lines. From the recipients of Halloween candy to the givers. From the kids waiving to the cars behind the bus to driving behind that bus. Isn't it weird how we used to hate being alone, it was scary. Now we seek loneliness for its safety. How we used to get up early in the morning, despising sleep because the day wasn't long enough. Now, getting out of bed is a chore, and the night is never long enough. It must have been gradual — I don't even know when it happened. When did the anxiety crowd out the joy?
+
+One of my favourite heuristics for a decision was "Am I making past sudolabel proud?" I say "was" with great sorrow. I wish I could still use it. I wish it were true that the only two people you ever needed to please were the 8-year-old version of you and the 80-year-old version of you. Yet, the older I get, the more I realize the 8-year-old version of me made assumptions about life that simply aren't true.
+
+I had a lot of plans for my life when I was younger and I had ideas about what I wanted it to look like. I've exceeded my wildest dreams and yet, here I am, more frustrated than ever before. I've moved the goal posts. I'm not really sure who I am anymore or what I stand for. I chase the next step of some milestone that I decided was strategically important some time ago, but, somewhere along the way, I forgot what the pieces were supposed to add up to.
+
+I'm unhappy. It's hard to know when I last felt content. I was never really content before: I was too focused on reaching where I am now. Now that I'm here, I feel lost chasing after something else that's supposed to come next. When I pause to look at my life, I feel confused and let down.
+
+I love my family, but the situation is too complex. I love my friends, but naturally, they're busy with work/university. I appreciate quality work, but I've grown cynical and my enthusiasm has faded. My work has turned from crafting art to unimportant micro-optimizations through cold harsh realities, lost in a mix of business goals, metrics, sales, and questioning the importance of my contributions to the overall whole.
+
+The more I know, the less I seem to get done. The more I own, the more I want. I'm pushing myself too hard, and it's not sustainable. I feel out of control as my life becomes more complex. I feel like I need a break, but it's just a deferral of problems that we all face in life.
+
+I dream about moving somewhere alone, working in a coffee shop, just being myself. I'd like to eat out, have drinks and laugh with friends. I wish I was younger. I wish I was in shape without the effort. I wish I woke up refreshed and ready to seize the day. I wish I had the energy to be more social, to host parties without worrying about the logistics.
+
+I spend my days in meetings I enjoy and coding in a language that I love, but it feels like I'm not accomplishing anything substantial at the end of the day and I get paid way too much for it.
+
+I feel like I'm adrift at sea, rowing because that's what you're supposed to do. I thought I was following a map to happiness, but I reached the destination, and it looks a lot less appealing from up-close. My youthful energy and optimism have turned into fatigue and cynicism. I long for simpler times, when I was fighting to get to where I am now. Looking back, I wonder if I had what I needed all along. I'm not sure where I went wrong. I don't think I ever considered how reaching my goal would feel.
+
+How can I have so much, yet feel like I have nothing? Why do my constraints seem bigger now when they used to be much tighter and didn't bother me?
+
+In childhood, you experience things thinking it's just the beginning, but often it's the end. Those moments are the best part of your life. Things get tougher! Why doesn't anyone mention this? When you’re younger, you just believe there are many people with whom you’ll connect with. Later in life, you realize it only happens a few times. You think that it's easier to make friends than enemies. That it's easier to spread love than hate. That you'll always be spending 8 hours of your day with the same cohort. And so you can freely think "I wish I had more money", "x would be my dream job", and believe that you'd be fulfilled with that. Living as a child didn't need to have a purpose; the purpose was just to wake up tomorrow and have fun. I miss the sense of wonder, when everything, even the mundane, seemed magical. 
+
+Sure, I'm more confident, better at communication, more influential, confident, experienced, blah blah blah. But am I having fun? Am I content? What is happiness, anyway? I can't do what I want, because I don't even know what I want. I'm not trapped by my life, I'm trapped by my mind. Travel doesn't seem appealing anymore, it's tiring. Hotels aren't comfortable, and you worry about making the most of your time. You just want to be on top of your work, feeling productive. In the end, nothing seems to matter. Projects get cancelled, management changes or makes a singular idiotic decision that outweighs your months of hard work. All you need to do is keep your job, get paid, and save for retirement. 
+
+I'm successful but I feel unsuccessful. I've achieved a lot yet I feel unaccomplished. I'm happy and yet, I'm unhappy. Is this just life? Will I find a solution to these issues, this mindset? Will I stop worrying about trivial things and start appreciating more? Will I find peace? Should I read more, or change careers? I'm not even sure any of this matters at all. I wish I was naive enough to be religious, but that ship has sailed many years ago. The appeals of nihilism are too rational; they make too much sense.
+
+I think what I'm asking is: how do I find something that feels good and right? How do I find the one true thing that guides me the rest of the way? Yet, the rationalist in me knows that there simply isn't.
+
+That's all without even beginning to talk about the people. I've spent 19 years of my life trying to be okay with the fact that humans fade in and out of each others lives. No matter how I think about it, I can't make it sound romantic or poetic. To those who have already passed through my life and to those who eventually will: I love you. I miss you. The back door will always be unlocked if you  ever feel like coming home.
+
+Part of what makes me so frustrated is that this isn't anybody's fault; not mine, and especially not my parents'; they did a wonderful job. It's not COVID's fault either — although it stole a few years of my childhood, all it did was accelerate the inevitable. I'm so privileged, why am I complaining? I have no right to even *think* about complaining. Or is this all... just life? Isn't it unreasonably cruel to introduce someone into a world where the past is universally superior to the future, embarking on a journey with a constant negative slope? The finiteness of time and our inability to control its speed is the greatest constraint everything faces ever. As an adult, I have so much freedom, liberty, money, and free time to keep me satisfied. And yet, none of it does.
+
+At the same time, craving childhood does nothing to bring it back. I caught myself being happy that summer was coming soon a few weeks ago. Then I began to think about it and realized that summer doesn't change anything anymore. I still have to work. I can take a day off, but I can take a day off during any season. Sometimes you still crave summer, but you mean summer, five years ago. I will still wait every year for summer, but it is never as good as _that_ summer I am always waiting for. 
+
+It almost feels like my school life all over again; working so hard for 12 years, just to be so indifferent about the destination to the point of not bothering to attend High School graduation. I hate how endings in real life come on so suddenly without making sense, or warning. One minute you're in the middle of something and the next it's all a very long time ago and you're a different person and none of it is ever coming back. And the age we are in right now? We're never getting that back either. Nostalgia as an emotion gets more difficult to deal with the older you get. Sometimes I wonder how my elders cope with the fact that their best days are behind them for so long. "You're nothing but a number of days, and whenever a day passes, a part of you passes away."
