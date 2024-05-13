@@ -33,7 +33,7 @@ in no particular order:
 - [the memories you rehearse in your head](https://seths.blog/2016/11/the-memories-we-rehearse-are-the-ones-we-live-with/) are the ones that form your identity.
 - you should [never downplay your work](https://x.com/visakanv/status/1158720988567109632), lest you convince yourself and it becomes a [self-fulfilling prophecy](https://x.com/visakanv/status/1326453565871714305). especially for [social reasons](https://twitter.com/visakanv/status/1461959783427108865).
 - you don't have to know what to do, to do something; literally just do it. the "best" version of something is always a moving target, so [strive to be prolific](https://visakanv.com/1000/0152-letter-to-a-young-songwriter/). write 100 songs. publish 100 blog posts.
-- it's almost wise to avoid prestige if you want to [do what you love](https://www.paulgraham.com/love.html): "if it didn't suck, they wouldn't have had to make it prestigious". and likewise, [to get status, you have to give up status](https://www.google.com/search?q=to+get+status+you+have+to+lose+status&sourceid=chrome&ie=UTF-8).
+- it's almost wise to avoid prestige if you want to [do what you love](https://www.paulgraham.com/love.html): "if it didn't suck, they wouldn't have had to make it prestigious". and likewise, [to get status, you have to give up status](https://www.workingtheorys.com/p/status-limbo).
 - if you've never missed a flight, you're spending [too much time in airports](https://scottaaronson.blog/?p=40). you're probably not taking enough risks, and not failing enough. 
 
 also, some other great, broader resources that are hard to categorize:

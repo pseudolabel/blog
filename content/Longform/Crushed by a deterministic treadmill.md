@@ -7,7 +7,7 @@ tags:
 date: 2023-06-04
 ---
 
-# I.
+## I.
 China is the greatest economic success of the late 20th and early 21st century. Globalization lifted a billion people out of poverty, fuelling China's transition from a poor agrarian economy to a modern industrialized manufacturing powerhouse. What happened to their happiness?
 
 ![[Pasted image 20230525132612.png]]
@@ -54,7 +54,7 @@ Assuming happiness surveys are accurate and practically nothing affects happines
 
 Then, perhaps this supports a theory of — and excuse my borrowing of High School physics terminology — the Law of Conservation of Happiness. Or, as it's better known, the [Hedonistic Treadmill](https://en.wikipedia.org/wiki/Hedonic_treadmill), applied at a societal level.
 
-# II.
+## II.
 Picture this: on New Year's Day, you find out you've won $1 billion in the lottery. It's a well-known lottery that always pays out, no BS. They say it'll take them a month to get the cash to you, around February 1st. Since you're swamped all through February, you plan to start spending in March. What happens next?
 
 Here's what likely happens: On January 1st, when you first learn you've won, it's the best day ever. February 1st, when the money lands in your bank, is cool but not as exciting. March 1st, when you begin spending, is awesome because you get to do lots of fun stuff.
@@ -86,19 +86,11 @@ Although subjective by nature, and through my lack of trust for psychology studi
 
 The honeymoon period seems like a reasonable parallel for the process of being widowed. Both last a few months to a few years. Both seem to involve updating on your life taking a surprising turn. Until you’ve fully updated, you feel unusually good/bad. After that… you return to your happiness set state.
 
-Perhaps the most vivid explanation of this was a scene in the lawyer-drama Suits. The season 5 finale’s plot was such that the co-protagonist Mike Ross might go to prison for 10 years, for practicing law despite never having finished his law degree. Before the verdict was given, he decided to accept a plea deal which sentenced him for 2 years instead of 10.
-
-Through a friend, Mike learned that the jury had planned to issue a guilty verdict. He concluded he’d made the correct decision, and was overjoyed at his cleverness of taking the plea deal.
-
-Mike later learned that in order to protect his ego, his friend had lied. In fact, the jury had planned to acquit. Which meant Mike had needlessly accepted to go to prison for 2 years instead of 0 years. He berated himself for making the incorrect decision of accepting the plea deal.
-
-My inner-monologue screamed “Mike’s going to jail for 2 years. Him learning what the jury might have decided won’t change the length of his 2 year sentence. It’s weird how he went from overjoyed to distressed, even though his actual situation has remained unchanged. His emotional state must depend on weighing his current state against counterfactuals, rather than evaluating his current state on its own merits." It can be conveniently explained by hedonistic adaptation; he first adjusted his set-point to a 10 year sentence, so the 2 year sentence was a great cause for excitement. Then, his set-point adjusted to the 2 year sentence, given that it was a certainty; but then the "choice" (a non-choice in reality) shifted to a potential 0 year sentence, compared to his guaranteed 2 year sentence. Hence, reason for despair.
-
 Even Pascal and Fermat speculated on this topic with the [Problem of Points]( https://en.wikipedia.org/wiki/Problem_of_points#Pascal_and_Fermat)
 
 > The starting insight for Pascal and Fermat was that the division should not depend so much on the history of the part of the interrupted game that actually took place, as on the possible ways the game might have continued, were it not interrupted. It is intuitively clear that a player with a 7–5 lead in a game to 10 has the same chance of eventually winning as a player with a 17–15 lead in a game to 20, and Pascal and Fermat therefore thought that interruption in either of the two situations ought to lead to the same division of the stakes. In other words, what is important is not the number of rounds each player has won yet, but the number of rounds each player still needs to win in order to achieve overall victory.
 
-# III.
+## III.
 I recently came across a brilliant, first-principles [ML post](https://www.lesswrong.com/posts/pdaGN6pQyQarFHXF4/reward-is-not-the-optimization-target) which perhaps has parallels to human behavior.
 
 It hypothesizes the following: reinforcement learning (RL) is a type of machine learning where an agent learns to make decisions by taking actions in an environment to maximize some notion of cumulative reward. The agent learns from trial and error, receiving rewards or penalties for actions it takes, and over time, it aims to develop a strategy, called a policy, to choose actions that maximize its rewards. There's a common assumption floating around that RL agents are primarily "reward optimizers" - creatures that not only seek to maximize their reward but also consistently prioritize reward over task completion. But is this really the case? Or are we just projecting our human understanding of reward onto digital entities?
