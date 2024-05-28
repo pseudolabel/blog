@@ -1,0 +1,12 @@
+---
+title: A Meritocrat's Manifesto
+tags: 
+    - one-sitting
+    - economics
+    - essay
+date: 2023-05-04
+draft: true
+---
+
+*this was initially a position paper for a long-winded discussion on meritocracy with a few friends, an amalgam of many existing blogs/articles.*
+
