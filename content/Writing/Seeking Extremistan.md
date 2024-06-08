@@ -41,7 +41,7 @@ The outcomes of these projects was hugely skewed:
 
 - [One](https://github.com/stanleyjzheng/bridgehacks) resulted in my first internship, doing ML back in 2021.
 - [Another](https://scholar.google.ca/citations?user=_LneMNIAAAAJ&hl=en) resulted in a published paper.
-- [Yet another](https://github.com/stanleyjzheng/safenode) won a hackathon, earned me \$20k in prize money, \$100k in grants, my first full-time job and practically invented a ~\$200m industry.
+- [Yet another](https://github.com/stanleyjzheng/safenode) won a hackathon, earned me \$20k in prize money, my first full-time job and practically invented a ~\$200m industry.
 - The other ~95% were completely forgettable. I couldn't even name most of them.
 
 There's a name for this distribution of results: a [Heavy-tailed distribution](https://en.wikipedia.org/wiki/Heavy-tailed_distribution)
