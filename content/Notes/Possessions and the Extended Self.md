@@ -4,7 +4,7 @@ tags:
     - psychology
     - paper
     - notes
-date: 2023-10-28
+date: 2023-04-12
 ---
 
 Possessions and the Extended Self is the seminal paper in the field of consumer behavior. 
