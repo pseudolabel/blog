@@ -10,10 +10,10 @@ It will become more personal over time, but it's currently a collection of inter
 
 A quick tldr of each:
 - Writing
-    - [Seeking Extremistan](https://sudolabel.xyz/Writing/Seeking-Extremistan): it's optimal to actively seek opportunities where maximal positive prediction error is possible. But how can we optimize for unexpected outcomes?
-    - [Crushed by a deterministic treadmill](https://sudolabel.xyz//Writing/Crushed-by-a-deterministic-treadmill): what factors increase the long term happiness of a population?
-    - [Status Delocalization](http://sudolabel.xyz/Writing/Status-Delocalization): the social effects of income at its tail.
-    - [A Meritocrat's Manifesto](https://sudolabel.xyz/Writing/A-Meritocrats-Manifesto): a rant in support of meritocracy.
+    - [Seeking Extremistan](/Writing/Seeking-Extremistan): it's optimal to actively seek opportunities where maximal positive prediction error is possible. But how can we optimize for unexpected outcomes?
+    - [Crushed by a deterministic treadmill](/Writing/Crushed-by-a-deterministic-treadmill): what factors increase the long term happiness of a population?
+    - [Status Delocalization](/Writing/Status-Delocalization): the social effects of income at its tail.
+    - [A Meritocrat's Manifesto](/Writing/A-Meritocrats-Manifesto): a rant in support of meritocracy.
     - [For Autodidactism](/Writing/For-Autodidactism-(or,-why-I-dropped-out)): my rationale behind not attending university (from an admittedly overly-monetary perspective).
 - Curations
     - [Bookmarks](/Curations/Bookmarks): my favorite bits of the internet.
