@@ -131,6 +131,6 @@ Ordered in order of perceived usefulness
 
 I wrote an article on wealth sampling titled [Status Delocalization](https://sudolabel.xyz/Writing/Status-Delocalization). It explores the lognormal distribution of income and its effects.
 
-Anu believes that [to get status, you have to give up status](https://www.workingtheorys.com/p/status-limbo). I found this blog after writing this, but it felt appropriate to (also linked in body).
+Anu believes that [to get status, you have to give up status](https://www.workingtheorys.com/p/status-limbo). I found this post after writing this, but it fits the theme (also linked in body).
 
 Jacob Falkovich writes to [Kelley Bet on Everything](https://www.lesswrong.com/posts/3pjv6uDvY9sqmsnvY/kelly-bet-on-everything), self explanatory.
