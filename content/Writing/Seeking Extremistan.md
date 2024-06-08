@@ -52,7 +52,7 @@ So-called because the "tail" of outcomes have a relatively higher chance of occu
 
 Let's look at a few examples of this:
 - Height is light-tailed. It's a normal distribution, and the tallest people are only a few feet taller than average.
-- Income is [heavy-tailed](https://ourworldindata.org/global-economic-inequality-introduction); it follows a lognormal distribution where the global median is $2.5k/yr and the top 1% earn $45k/yr.
+- Income is [heavy-tailed](https://ourworldindata.org/global-economic-inequality-introduction); it follows a lognormal distribution where the global median is \$2.5k/yr and the top 1% earn \$45k/yr.
 - Twitter is [heavy-tailed](https://www.theatlantic.com/technology/archive/2013/12/its-a-lonely-world-the-median-twitter-user-has-1-measly-follower/282513/). The median user has 1 follower, while the top 1% has over 10k.
 - The cost-effectiveness of global health interventions is [heavy-tailed](https://openknowledge.worldbank.org/bitstream/handle/10986/28877/9781464805271.pdf?sequence=2#page=171): as measured by the Disease Control Priorities project, the most cost-effective intervention was about 3x as cost-effective as the 10th-most cost-effective, and 10x the 20th-most cost-effective.
 
