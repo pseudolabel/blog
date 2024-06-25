@@ -129,7 +129,7 @@ Ordered in order of perceived usefulness
 
 [Why the tails come apart](https://www.lesswrong.com/posts/dC7mP5nSwvpL65Qu5/why-the-tails-come-apart) was linked in the body of the article, but is one of my favourite blogs.
 
-I wrote an article on wealth sampling titled [Status Delocalization](https://sudolabel.xyz/Writing/Status-Delocalization). It explores the lognormal distribution of income and its effects.
+I wrote an article on wealth sampling titled [Status Delocalization](https://blog.sudolabel.xyz/Writing/Status-Delocalization). It explores the lognormal distribution of income and its effects.
 
 Anu believes that [to get status, you have to give up status](https://www.workingtheorys.com/p/status-limbo). I found this post after writing this, but it fits the theme (also linked in body).
 
