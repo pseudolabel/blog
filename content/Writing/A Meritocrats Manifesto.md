@@ -46,7 +46,7 @@ Liberalism's primary focus is peaceful coexistence, with liberty, fraternity, an
 
 A position for functionalism is as simple as examining one's thought of the other. Functionalists think conflict theorists are simply making a mistake. On a fundamental level, conflict theorists don't embrace Hanlon's Razor, to "never attribute to malice what can be explained by stupidity", stuck at some glowing-brain meme where they think forming mobs and smashing things can motivate decision makers to solve incredibly complex social engineering problems. 
 
-![[Pasted image 20230503191805.png]]
+![[images/Pasted image 20230503191805.png]]
 
 Conflict theorists tend to view Functionalists as adversaries in their struggle; they may be directly affiliated with powerful entities like Big Tech. More fundamentally, however, they are perceived as part of a class prioritizing the preservation of its privileges over the welfare of the poor or the common good. At best, they may strive to maintain neutrality, oblivious to the fact that neutrality often favours the powerful in conflicts between the powerful and powerless. Thus, the appropriate reaction is to confront and challenge them.
 
