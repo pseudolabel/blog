@@ -16,7 +16,7 @@ A quick tldr of each:
     - [A Meritocrat's Manifesto](/Writing/A-Meritocrats-Manifesto): a rant in support of meritocracy.
     - [For Autodidactism](/Writing/For-Autodidactism-(or,-why-I-dropped-out)): my rationale behind not attending university (from an admittedly overly-monetary perspective).
 - Curations
-    - [Bookmarks](/Curations/Bookmarks): my favorite bits of the internet.
+    - [Bookmarks](/Curations/Bookmarks): my favourite bits of the internet.
     - [Favourite Self-help](/Curations/Favourite-Self-help): a list of insightful tweets, blogs, and other writing that's helped my personal growth and formed my worldview.
 - Notes
     - [Possessions and the Extended Self](/Notes/Possessions-and-the-Extended-Self): a seminal paper on behavioural psychology: how do individuals define their identities and express themselves through identity?
