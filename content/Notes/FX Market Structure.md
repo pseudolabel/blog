@@ -7,12 +7,12 @@ Spot FX as a whole is decentralized; there is no universally agreed upon clearin
 Most spot FX is T+2; except USD/CAD and a few others which are T+1. The FX market operates 24/5 across various electronic platforms and dealer networks. Trades can be executed via interdealer brokers (e.g. EBS, Refinitiv Matching), multi-bank trading platforms (e.g. FXall, 360T, Bloomberg FXGO), single-dealer platforms, or voice/chat channels for less liquid trades. The rise of electronic communication networks (ECNs) and request-for-quote (RFQ) platforms has driven high efficiency: in major currency pairs, most pricing is electronic and often automated via algorithms. Global banks (e.g. JPMorgan, Citi, UBS, Deutsche Bank) remain key market-makers, collectively providing much of the liquidity and credit that underpins FX trading. However, non-bank liquidity providers (proprietary trading firms like XTX Markets, Citadel Securities, etc.) have grown in influence, streaming competitive prices on electronic venues. These players benefit from prime brokerage arrangements that grant them access to the same anonymous trading venues as banks. Prime brokers (often large banks) act as intermediaries that allow clients (funds, retail brokers, fintechs) to trade with numerous counterparties under a single credit line. This structure has enabled broad market access but concentrates credit risk in prime banks.
 
 ### What venues exist for FX?
-- Refinitiv (LSEG) FX platforms: ~\$100 billion/day in spot across Matching and FXall combined (peaking at \$109B in Sep 2024), and about \$378B/day in forwards/ swaps. FXall is the leading multi-dealer platform for corporate/investor flow.
+- Refinitiv (LSEG) FX platforms: \~\$100 billion/day in spot across Matching and FXall combined (peaking at \$109B in Sep 2024), and about \$378B/day in forwards/ swaps. FXall is the leading multi-dealer platform for corporate/investor flow.
 - CME EBS: Roughly \$60 billion/day average spot in 2024 (with highs above \$70B), after a dip in 2023. CME is launching “FX Spot+” to integrate EBS more with its futures, indicating strategic importance.
 - Cboe FX (Hotspot): In the \$40–50B/day range in spot. Notably strong in certain pairs and during US hours. Hit record volumes in April 2024 amid yen volatility.
-- FXSpotStream: ~\$50B/day in 2024 (spot). It’s a unique aggregated streaming RFQ service (a bank consortium that provides a single API for clients to get quotes from all 15+ member banks). It had a surge in Q4 2024 volumes (+25% from Q1), showing regained growth.
-- 360T: ~\$168B/day total in 2024 across products (spot + swaps). It had record non-spot (forward, swap) volumes – e.g. NDF volumes rose to \$1.74B/day. 360T’s spot component is smaller than its swaps but still significant (~\$20–30B).
-- Euronext FX (ex-FastMatch): On the order of ~\$20B/day spot in 2024, after some growth. It had peaks in late 2024 with US election-related trading.
+- FXSpotStream: \~\$50B/day in 2024 (spot). It’s a unique aggregated streaming RFQ service (a bank consortium that provides a single API for clients to get quotes from all 15+ member banks). It had a surge in Q4 2024 volumes (+25% from Q1), showing regained growth.
+- 360T: \~\$168B/day total in 2024 across products (spot + swaps). It had record non-spot (forward, swap) volumes – e.g. NDF volumes rose to \$1.74B/day. 360T’s spot component is smaller than its swaps but still significant (\~\$20–30B).
+- Euronext FX (ex-FastMatch): On the order of \~\$20B/day spot in 2024, after some growth. It had peaks in late 2024 with US election-related trading.
 - LMAX Exchange: A London-based FX ECN focused on funds/prop traders, known for cryptocurrency as well. FX ADV possibly in tens of billions (LMAX doesn’t publicly report, but it’s recognized as a top FX venue).
 - Regional/local venues: e.g. FXMarkets TX (Singapore), Currenex (now part of State Street), and Integral each may handle single-digit billions daily. Bloomberg FXGO handles very large ticket notional (especially for corporate and central bank trades) but as an RFQ hub with no centralized tape, volumes aren’t disclosed.
 
@@ -54,22 +54,22 @@ The risk of loss due to failed processes, human error, system failure, or fraud.
 - The BIS monitors banks’ FX settlement exposures via periodic surveys and has pushed banks to improve PvP adoption. Supervisors may require banks that still settle a lot outside CLS to hold more capital or liquidity against that settlement exposure.
 ## Settlement infrastructure
 ### CLS
-TLDR; CLS is an atomic settlement method for payments. It nets out trades letting ~60-70 banks settle <2% of their gross trades. 
+TLDR; CLS is an atomic settlement method for payments. It nets out trades letting \~60-70 banks settle <2% of their gross trades. 
 
 If there is no direct account relationship between two operators on the foreign exchange market, foreign exchange transactions are traditionally settled via correspondent banks. In this case, when one party meets its obligation irrevocably, it does so without knowing whether its counterparty will settle its liability. This means that there is a risk of the counterparty delivering late (liquidity risk) or, in the worst case, not at all (credit risk). These risks are compounded if the foreign exchange market participants are in different time zones.
 
 ![[Pasted image 20250502220843.png]]
 
-The famous case of this was Herstatt bank; tldr, in 1974, a German bank FTD'd 2b German Marks, and due to timezone differences (USD sent in exchange for Marks settled before the Marks were to be sent the following day), their counterparty failed to receive their USD payments. This led to a slow system for ~20yrs where there there was a third party escrow system, eliminating principal risk.
+The famous case of this was Herstatt bank; tldr, in 1974, a German bank FTD'd 2b German Marks, and due to timezone differences (USD sent in exchange for Marks settled before the Marks were to be sent the following day), their counterparty failed to receive their USD payments. This led to a slow system for \~20yrs where there there was a third party escrow system, eliminating principal risk.
 
 ![[Pasted image 20250502220855.png]]
 
-Participation in CLS can be either direct (settlement member) or indirect (third party). There are ~60 settlement member banks. All must have an equity stake in CLS. The important features for these banks is as follows:
+Participation in CLS can be either direct (settlement member) or indirect (third party). There are \~60 settlement member banks. All must have an equity stake in CLS. The important features for these banks is as follows:
 - Account with CLS
 - 18 currency-specific subaccounts
 - self-collatrealizing transactions; ie, a liability in one currency is always covered by a claim in another currency
 
-In theory, this is pretty easy; every party sends the currency they sell into CLS, and it settles both sides. But t+2 is liquidity inefficient. To solve this, settlement is separated from payment flows; meaning that they are settled on a gross basis, but then payment is netted. Meaning that only the net positions of a settlement member is transferred. CLS claims that ~2% of gross amounts are ever actually settled in cash.
+In theory, this is pretty easy; every party sends the currency they sell into CLS, and it settles both sides. But t+2 is liquidity inefficient. To solve this, settlement is separated from payment flows; meaning that they are settled on a gross basis, but then payment is netted. Meaning that only the net positions of a settlement member is transferred. CLS claims that \~2% of gross amounts are ever actually settled in cash.
 
 In practical terms, for each FX trade, the operational flow is:
 
@@ -89,7 +89,7 @@ Missed payments can cascade (one bank’s failure to pay USD in CLS could force 
 
 Other quick facts:
 - CLS is continuous linked settlement; a nonprofit company handling instantaneous settlement formed in 2002
-- ATH volume of \$15.4t in one day, ATH of 3.2m trades in one day. Average ~\$7t/d in 2024
+- ATH volume of \$15.4t in one day, ATH of 3.2m trades in one day. Average \~\$7t/d in 2024
 - Settles 51% of global FX transactions; only 18 currencies
 - 17% of global FX volume are on currencies which are non-CLS tradeable [source](https://www.bankofcanada.ca/wp-content/uploads/2024/10/cls-presentation.pdf)
     - Most of this is RMB; 7% of global FX turnover
